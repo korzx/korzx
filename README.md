@@ -7,12 +7,12 @@ Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapması
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Korz** {
+ val name = "Tamer"
+ val acknowledgements = "BİLGİ ALANI"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("HTML", "CSS", "Python", "JavaScript", "Kotlin"") 
 
 }
 ```
