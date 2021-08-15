@@ -1,8 +1,8 @@
-### Oie devs 👋
+  ### Korz Softtech 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapmasına yardımcı olmaktan keyif alıyorum.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Benim hakkımda daha fazla
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -17,7 +17,7 @@ object **SEU NOME** {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Diller ve Araçlar:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -31,7 +31,7 @@ object **SEU NOME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub İstatistikleri**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
@@ -41,14 +41,12 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[website]: https://korzilladevelopment.cf/
+[youtube]: https://www.youtube.com/channel/UCXW9sfBPk27fKAPac6P_8xQ/
+[instagram]: https://www.instagram.com/korzilla_official/
 <br>
 
-#### Rede Sociais!
+#### Sosyal ağlar!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
