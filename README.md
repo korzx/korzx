@@ -37,7 +37,7 @@ object **Korz** {
 </a>
 
 <a href="https://github.com/korzx">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Korz** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=korzx&show_icons=true&theme=dracula&line_height=27" alt="**Korz** github stats"/>
 </a>
 
 [website]: https://korzilladevelopment.cf/
@@ -48,8 +48,6 @@ object **Korz** {
 #### Sosyal ağlar!
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
