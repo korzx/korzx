@@ -40,14 +40,14 @@ object **Korz** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=korzx&show_icons=true&theme=dracula&line_height=27" alt="**Korz** github stats"/>
 </a>
 
-[website]: https://korzilladevelopment.cf/
-[youtube]: https://www.youtube.com/channel/UCXW9sfBPk27fKAPac6P_8xQ/
-[instagram]: https://www.instagram.com/tmrcoder/
+[Website]: https://korzilladevelopment.cf/
+[YouTube]: https://www.youtube.com/channel/UCXW9sfBPk27fKAPac6P_8xQ/
+[Instagram]: https://www.instagram.com/tmrcoder/
 <br>
 
 #### Sosyal ağlar!
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [Website][Website] **|** 
+📺 [YouTube][YouTube] **|** 
+📷 [Instagram][Instagram] **|** 
 
