@@ -8,10 +8,10 @@ Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapması
 
 ```kotlin
 object **Korz** {
- val acknowledgements = "Yaklaşık 2 senedir yazılım alanında kendimi geliştirmeye çalışıyorum ve hala da gelişmeye devam ediyorum eğer sizlere de yardımcı olabilirsem ne mutlu bana"
+ val acknowledgements = "Yaklaşık 2 senedir yazılım alanında kendimi geliştirmeye çalışıyorum ve hala da gelişmeye devam ediyorum. Bu bana keyif veriyor!"
  
- val primarySkillset = "Korzilla Adında Bot Tasarladım, Korz Soffetch Adında Ekibim var, Yapay Zeka (Artificial Intelligence [AI]) Alanında da kendimi geliştirmekteyim."
- val languages = listOf("HTML", "CSS", "Python", "JavaScript", "Kotlin"") 
+ val primarySkillset = "Korzilla Adında Bot Tasarladım, Korz Softech Adında Ekibim var, Yapay Zeka (Artificial Intelligence [AI]) Alanında da kendimi geliştirmekteyim."
+ val languages = listOf("HTML", "CSS", "Python", "JavaScript") 
 
 }
 ```
