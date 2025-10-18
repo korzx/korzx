@@ -42,7 +42,7 @@ object **Korz** {
 
 [Website]: https://korzilladevelopment.cf/
 [YouTube]: https://www.youtube.com/channel/UCXW9sfBPk27fKAPac6P_8xQ/
-[Instagram]: https://www.instagram.com/tmrcoder/
+[Instagram]: https://www.instagram.com/sezerrtamerr/
 <br>
 
 #### Sosyal ağlar!
