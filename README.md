@@ -145,7 +145,7 @@ Projelerim beğendiysen, lütfen ⭐ star at ve sosyal medyada paylaş! 🙏
   
   ![Views](https://komarev.com/ghpvc/?username=korzx&color=blue&style=for-the-badge)
   
-  **Yapımcı:** Tamer Sezer © 2024-2026 | Made with ❤️
+  **Yapımcı:** Tamer Sezer © 2021-2026 | Made with ❤️
   
 </div>
 
