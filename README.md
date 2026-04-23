@@ -13,7 +13,7 @@
 
 ## 🚀 Benim Hakkımda
 
-Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapmasına yardımcı olmaktan keyif alıyorum. **2+ yıldır** yazılım geliştirme alanında kendimi sürekli olarak geliştiriyorum.
+Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapmasına yardımcı olmaktan keyif alıyorum. **5+ yıldır** yazılım geliştirme alanında kendimi sürekli olarak geliştiriyorum.
 
 > 💡 *"Kod yazmanın sanatı, sorunları çözmekle başlar."*
 
