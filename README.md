@@ -104,10 +104,7 @@ Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapması
 
 ## 📈 Hedeflerim
 
-- 🎯 **2024:** AI/ML uzmanı olmak
-- 🎯 **2025:** Popüler açık kaynak projelere katkı
-- 🎯 **2026:** Teknoloji konferansında konuşmak
-- 🎯 **Gelecek:** Kendi startup'ımı kurmak
+- 🎯 **Gelecek:** Kendi yazılım şirketimi kurmak
 
 ---
 
@@ -120,8 +117,7 @@ Harika yazılımlar oluşturmaktan ve diğer insanların da aynısını yapması
 | 🌐 **Website** | [korzilladevelopment.cf](https://korzilladevelopment.cf/) |
 | 📺 **YouTube** | [Korz Channel](https://www.youtube.com/channel/UCXW9sfBPk27fKAPac6P_8xQ) |
 | 📷 **Instagram** | [@sezerrtamerr](https://www.instagram.com/sezerrtamerr/) |
-| 💼 **LinkedIn** | [Tamer Sezer](https://linkedin.com/in/tamersezer) |
-| 📧 **Email** | tamer@korzilladevelopment.cf |
+| 📧 **Email** | tmrcoder0@gmail.com |
 
 </div>
 
